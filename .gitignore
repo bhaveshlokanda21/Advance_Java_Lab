@@ -1,0 +1,31 @@
+# Java / Maven
+Target/
+target/
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE/editor
+.vscode/
+.idea/
+*.iml
+*.log
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Build outputs
+bin/
+out/
+build/
+
+# Dependency folders
+node_modules/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
